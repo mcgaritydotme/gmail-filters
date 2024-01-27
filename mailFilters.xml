@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001643813749065*2307723055677030869,z0000001644427899063*4629892313308564056,z0000001650968039981*4107276784884238707,z0000001651073940862*7473325678394472129,z0000001651074040101*6470512846440292120,z0000001654003381061*7004562765931098120,z0000001654020519466*6914377328884838727,z0000001663150589759*3019142100996153473,z0000001666052348253*7515028457820615444,z0000001666053340798*5727170450993485606,z0000001666053606237*6558038187747232409,z0000001666054791286*5127569005936751712,z0000001666055290702*6985200334499710178,z0000001666055560145*1332248719216191587,z0000001666055813180*4504808858984120897,z0000001666055828443*5627894785300325289,z0000001666055838034*8927784468323352535,z0000001676025796614*2985454790013448006,z0000001677097954967*4437025986969031508,z0000001678271907076*0960494612278821174,z0000001684159764174*7346389132706262636,z0000001684159843467*3952105225569338334,z0000001689086240249*0446019262809712782</id>
+	<updated>2024-01-26T21:50:33Z</updated>
+	<author>
+		<name>Matthew McGarity</name>
+		<email>matthew@mcgarity.me</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643813749065*2307723055677030869</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='no-reply@zoom.us'/>
+		<apps:property name='subject' value='&quot;has joined your meeting&quot; OR deleted'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001644427899063*4629892313308564056</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='no-reply@doordash.com'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='forwardTo' value='matthew@mcgarity.me'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001650968039981*4107276784884238707</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[Confluence]'/>
+		<apps:property name='label' value='Confluence'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001651073940862*7473325678394472129</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[Bitbucket]'/>
+		<apps:property name='label' value='Bitbucket'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001651074040101*6470512846440292120</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[Jira] -[comment]'/>
+		<apps:property name='label' value='Jira'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001654003381061*7004562765931098120</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='invite.ics OR invite.vcs'/>
+		<apps:property name='label' value='GCal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001654020519466*6914377328884838727</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[Bitbucket]'/>
+		<apps:property name='hasTheWord' value='&quot;MERGED pull request&quot; OR &quot;updated pull request&quot; OR &quot;DECLINED pull request&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001663150589759*3019142100996153473</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[Jira]'/>
+		<apps:property name='hasTheWord' value='&quot;Time Spent&quot; OR &quot;Time Logged&quot; OR &quot;Remaining Estimate&quot; OR &quot;Original Estimate&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666052348253*7515028457820615444</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='helpjuice.com'/>
+		<apps:property name='label' value='HelpJuice'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666053340798*5727170450993485606</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='from:(substack.com OR startuparchive.org OR support@figma.com OR news@postman.com OR producthunt.com OR mindtheproduct.com OR joinperch.com) OR &quot;Lenny&apos;s Newsletter&quot;'/>
+		<apps:property name='label' value='Reading'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666053606237*6558038187747232409</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='([Jira] OR [Confluence]) -mentioned -assigned -subscription'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666054791286*5127569005936751712</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='(&quot;[Jira]&quot; OR &quot;[Confluence]&quot;) mentioned OR assigned'/>
+		<apps:property name='label' value='Mentions'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666055290702*6985200334499710178</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[Bitbucket]'/>
+		<apps:property name='hasTheWord' value='subject:&quot;mentioned&quot; OR (&quot;reviewer&quot; OR &quot;YourNameHere&quot;)'/>
+		<apps:property name='label' value='Mentions'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666055560145*1332248719216191587</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='subject:([Bitbucket] -&quot;mentioned&quot;) -{&quot;reviewer&quot; &quot;YourNameHere&quot;}'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666055813180*4504808858984120897</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='figma.com'/>
+		<apps:property name='label' value='Figma'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666055828443*5627894785300325289</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='figma.com'/>
+		<apps:property name='subject' value='mentioned'/>
+		<apps:property name='label' value='Mentions'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666055838034*8927784468323352535</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='figma.com'/>
+		<apps:property name='subject' value='-mentioned'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001676025796614*2985454790013448006</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@mail.jazz.co'/>
+		<apps:property name='label' value='JazzHR'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001677097954967*4437025986969031508</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@calendly.com'/>
+		<apps:property name='label' value='GCal'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678271907076*0960494612278821174</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@sagetap.io'/>
+		<apps:property name='label' value='SageTap'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001684159764174*7346389132706262636</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='helpjuice'/>
+		<apps:property name='subject' value='mentioned'/>
+		<apps:property name='label' value='Mentions'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001684159843467*3952105225569338334</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='helpjuice'/>
+		<apps:property name='subject' value='-mentioned'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001689086240249*0446019262809712782</id>
+		<updated>2024-01-26T21:50:33Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;Confluence changes&quot;'/>
+		<apps:property name='doesNotHaveTheWord' value='created'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
